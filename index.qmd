@@ -1,0 +1,17 @@
+---
+title: "Malsha Chamodi"
+image: prof.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/m-t-m-chamodi-5139a5369
+    - icon: github
+      text: Github
+      href: https://github.com/malsha1111
+---
+
+I am a final-year **B.Sc. (Hons) Statistics undergraduate** at the University of Sri Jayewardenepura with a strong interest in **data science and analytics**. My academic and project experience has equipped me with skills in **statistical modeling, data visualization, analytical problem-solving, and programming** using **R and Python**.
+
+I am passionate about applying data-driven approaches to uncover insights and solve real-world problems. Currently, I am seeking opportunities in **data analysis, business analytics, and data science** where I can contribute my expertise while continuing to grow as a professional in the field.
